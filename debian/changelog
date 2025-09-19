@@ -1,3 +1,34 @@
+hello (2.10-4build5) noble; urgency=low
+
+  * Fix issues in install file to make testing.sh install into a right path
+
+ -- Jingyi Yu <jiriyu98@gmail.com>  Sat, 20 Sep 2025 21:05:55 +0800
+
+hello (2.10-4build4) noble; urgency=low
+
+  * Move testing.sh files into root directory
+
+ -- Jingyi Yu <jiriyu98@gmail.com>  Sat, 20 Sep 2025 19:12:13 +0800
+
+hello (2.10-4build3) noble; urgency=low
+
+  * Add install file to install testing.sh script
+
+ -- Jingyi Yu <jiriyu98@gmail.com>  Sat, 20 Sep 2025 16:31:56 +0800
+
+hello (2.10-4build2) noble; urgency=low
+
+  * Fix syntax error in the postinst
+
+ -- root <jiriyu98@gmail.com>  Sat, 20 Sep 2025 16:31:56 +0800
+
+hello (2.10-4build1) noble; urgency=low
+
+  * Add "this is a test from Jingyi Yu" testing.sh
+  * Add "this is a test from Jingyi Yu" into installation time
+
+ -- Jingyi Yu <jiriyu98@gmail.com>  Sat, 20 Sep 2025 00:25:08 +0700
+
 hello (2.10-3build1) noble; urgency=high
 
   * No change rebuild for 64-bit time_t and frame pointers.
